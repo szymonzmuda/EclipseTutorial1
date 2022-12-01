@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author szm
- *
- */
-module hello {
-}
